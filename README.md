@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, We're ADARSH</h1>
+<h1 align="center">Hi 👋, Iam ADARSH</h1>
 <h3 align="center">Passionate lerner</h3>
 <img align="right" alt="data" width= "600" src="https://github.com/joshiadarshx/joshiadarshx/blob/main/Readmegif.gif">
 
